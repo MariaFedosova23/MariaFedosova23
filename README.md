@@ -5,10 +5,44 @@
 
 Закрываю полный цикл разработки пет‑проектов: проектирование, базы данных и миграции, защита от уязвимостей, контейнеризация (Docker), Nginx. Стек: Django и Django REST Framework. Системно прокачиваю алгоритмическую базу: «Грокаем алгоритмы», LeetCode (массивы, строки, бинарный поиск, динамическое программирование). В командных проектах работала с распределением задач, сроками и согласованием интерфейсов.
 
-#### Где меня найти
-Telegram: @MariaF2303
+### Технологии:
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36">
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36">
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36">
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36">
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36">
+  </a>
+  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36">
+  </a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36">
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36">
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36">
+  </a>
+</p>
 
-Сейчас открыта к разным форматам сотрудничества: стажировка, Junior‑позиция, проектная работа. Готова как к полной, так и к частичной занятости — главное, чтобы была возможность расти в команде и применять навыки backend‑разработки и автоматизации.
+* ✉️ Вы можете связаться со мной по адресу [@MariaF2303](mailto:@MariaF2303) 
 
-<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><изображение src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg " alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><изображение src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg " alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><изображение src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg " alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><изображение src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg " alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.postgresql.org /" target="_blank" rel="noreferrer"><изображение src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg " alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><изображение src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg " alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><изображение src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg " alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><изображение src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg " alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://www.djangoproject.com /" target="_blank" rel="noreferrer"><изображение src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg " alt="Django" title="Джанго" width="36" height="36" /></a> </p>
-### Социальные сети <p align="left"> <a href="https://www.github.com/MariaFedosova23 " target="_blank" rel="noreferrer"> <изображение> <исходный носитель="(предпочитает-цветовая гамма: темная)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg " /> <source media="(предпочитает-цветовая гамма: светлая)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg " /> <изображение src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg " width="32" height="32" alt="GitHub" title="ГитХаб" /> </картинка> </a></p>
+
+#### Сейчас открыта к разным форматам сотрудничества: 
+ - стажировка, 
+ - Junior‑позиция, 
+ - проектная работа
+   
+##### Готова как к полной, так и к частичной занятости — главное, чтобы была возможность расти в команде и применять навыки backend‑разработки и автоматизации.
+
